@@ -4,7 +4,7 @@
 
 using namespace std;
 int main(){
-    string str = "Geeks for shuvam ronojit";
+    string str = "HELLO Ronojit Chowdhury";
     stringstream s(str);
     string word;
  
